@@ -2,6 +2,8 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+#username = swiftchat
+#password = swiftcha9110
 #unset DJANGO_SETTINGS_MODULE
 #python -c "import os; print(os.environ.get('DJANGO_SETTINGS_MODULE'))"
 #python manage.py runserver
